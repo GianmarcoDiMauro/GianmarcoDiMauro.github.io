@@ -1,0 +1,36 @@
+baseURL: https://GianmarcoDiMauro.github.io/
+languageCode: en-us
+title: Portfolio
+
+# Manage languages
+languages:
+  #Impostare multilingua. Se cambio "en" sballa tutto.
+  en:
+    languageName: Italiano
+    weight: 1
+
+    # Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+    # Enable global emoji support
+enableEmoji: true
+
+# Site parameters
+params:
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/GianmarcoDiMauro/GianmarcoDiMauro.github.io
+
+  # specify whether you want to write some blog posts or not
+  enableBlogPost: true
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+  
+  newsletter:
+    enable: false
+
+  background: /images/prova.jpg

@@ -1,0 +1,15 @@
+# Copyright Notice
+copyright: © 2020 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Portfolio and personal blog of Gianmarco Di Mauro, Digital Strategist per consulenze d'immagine data-driven.
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+
+#Da qui posso aggiungere altre sezioni vicino a "Post". Da capire come funziona.
+#customMenus:
+#- name: Docs
+#  url: https://toha-guides.netlify.app/posts/
+#- name: Notes
+#  url: /notes

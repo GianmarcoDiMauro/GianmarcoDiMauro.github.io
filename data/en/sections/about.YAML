@@ -1,0 +1,46 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+  
+  # your designation
+designation: Digital Humanist
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: "Laureando in Digital Humanities all'università di Pisa, percorso 'Editoria digitale'. Competenze digitali e passione da umanista: svelo le storie celate sotto i vostri dati."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "gdm1795@gmail.com"
+  
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/gdm17195/"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/GianmarcoDiMauro"
+  
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/gdm1795"
+  
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/gianmarco.dimauro.7/"
+  
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/jan.marcio/"
+  
+
