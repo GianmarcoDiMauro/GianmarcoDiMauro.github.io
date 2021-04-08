@@ -3,7 +3,7 @@ name: "Gianmarco Di Mauro"
 nickname: "Gianmarco"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Ciao, sono"
-image: /images/io.jpg
+#image: /images/io.jpg
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "gdm1795@gmail.com"

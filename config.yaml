@@ -33,4 +33,4 @@ params:
   newsletter:
     enable: false
 
-  background: /images/prova.jpg
+  #background: /images/prova.jpg
