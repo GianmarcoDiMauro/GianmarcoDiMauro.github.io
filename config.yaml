@@ -1,5 +1,8 @@
 baseURL: https://gianmarcodimauro.github.io/
+
+languageCode: en-us
 title: Portfolio
+theme: "toha"
 
 # Manage languages
 languages:
